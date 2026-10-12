@@ -1,0 +1,198 @@
+[
+  {
+    "fictionalLabel": "[SYNTHETIC FICTIONAL DATA FOR HACKATHON EVALUATION]",
+    "proposalId": "PROP-SYN-2023-0101",
+    "title": "Comprehensive IP-Based CCTV Surveillance Network for Puducherry Coastal Boulevard",
+    "summary": "Fictional case: Installation of 42 high-definition PTZ and fixed night-vision CCTV cameras along the Goubert Avenue and Rock Beach promenade to enhance tourist safety and deter night-time anti-social activity.",
+    "problemStatement": "Inadequate optical surveillance along the 2.5 km coastal promenade leading to blind spots during peak tourist gatherings and festival celebrations.",
+    "category": "Infrastructure & Surveillance",
+    "departmentCode": "TRAFFIC_TECH",
+    "departmentName": "Technical & Traffic Surveillance Wing",
+    "proposedBudget": 4850000,
+    "currency": "INR",
+    "implementationTimeline": "6 Months",
+    "status": "Closed",
+    "outcome": "Approved",
+    "decidedAmount": 4400000,
+    "decisionReason": "Sanctioned subject to reducing secondary redundant PTZ poles and integrating fiber backbone with the Central Police Control Room (PCR). Standardized vendor AMC warranty of 3 years mandatory.",
+    "implementationStatus": "Implemented",
+    "implementationOutcome": "Successfully deployed 38 cameras by December 2023. Real-time video feed streams to Police Command Center. Resulted in 34% faster incident response times during 2024 New Year celebrations.",
+    "actualCost": 4350000,
+    "sourceReferences": [
+      {
+        "documentTitle": "Synthetic Sanction Order No. POL/TECH/2023/419",
+        "pageNumber": 3,
+        "sectionTitle": "Financial Sanction and Technical Guidelines"
+      }
+    ],
+    "keywords": ["CCTV", "surveillance", "Rock Beach", "PTZ camera", "Command Center", "fiber optic", "night vision"]
+  },
+  {
+    "fictionalLabel": "[SYNTHETIC FICTIONAL DATA FOR HACKATHON EVALUATION]",
+    "proposalId": "PROP-SYN-2023-0214",
+    "title": "Solar-Powered Standalone Wireless Surveillance Cameras for Rural Police Outposts",
+    "summary": "Fictional case: Procurement of 20 standalone 4G solar-powered surveillance nodes for peripheral rural border checkposts with limited grid electrical stability.",
+    "problemStatement": "Frequent power outages in outlying rural jurisdictions incapacitate legacy analog wired CCTV recording units.",
+    "category": "Infrastructure & Surveillance",
+    "departmentCode": "RURAL_DIV",
+    "departmentName": "Rural Sub-Division",
+    "proposedBudget": 2900000,
+    "currency": "INR",
+    "implementationTimeline": "4 Months",
+    "status": "Closed",
+    "outcome": "Rejected",
+    "decidedAmount": 0,
+    "decisionReason": "Rejected due to recurring 4G SIM bandwidth operational expenditure recurring costs, battery degradation issues noted in coastal high-humidity environment, and lack of localized service centers for the proposed vendor.",
+    "implementationStatus": "Not Applicable",
+    "implementationOutcome": "Not implemented. Recommendation issued to explore unified fiber leasing with municipal utility instead.",
+    "actualCost": 0,
+    "sourceReferences": [
+      {
+        "documentTitle": "Synthetic Committee Appraisal Report POL/APP/2023/88",
+        "pageNumber": 2,
+        "sectionTitle": "Technical Feasibility & Environmental Durability"
+      }
+    ],
+    "keywords": ["solar CCTV", "wireless surveillance", "rural outposts", "4G solar", "battery life"]
+  },
+  {
+    "fictionalLabel": "[SYNTHETIC FICTIONAL DATA FOR HACKATHON EVALUATION]",
+    "proposalId": "PROP-SYN-2024-0042",
+    "title": "Automated Number Plate Recognition (ANPR) and Red-Light Violation Detection System",
+    "summary": "Fictional case: Deployment of 28 ANPR smart optical cameras across 7 major arterial traffic junctions along Anna Salai and 100 Feet Road.",
+    "problemStatement": "Manual enforcement of traffic signal violations and stolen vehicle tracking is labor intensive and causes intersection congestion.",
+    "category": "Traffic & Automated Enforcement",
+    "departmentCode": "TRAFFIC_TECH",
+    "departmentName": "Technical & Traffic Surveillance Wing",
+    "proposedBudget": 7500000,
+    "currency": "INR",
+    "implementationTimeline": "8 Months",
+    "status": "Closed",
+    "outcome": "Approved",
+    "decidedAmount": 6800000,
+    "decisionReason": "Approved with modifications: Phased rollout starting with top 4 high-density intersections. System must connect to National VAHAN database API.",
+    "implementationStatus": "Implemented",
+    "implementationOutcome": "Phase 1 operational. Over 1,200 automated e-challans generated in Q1 2025. Stolen motorcycle detection accuracy achieved 91.4% in trial audit.",
+    "actualCost": 6650000,
+    "sourceReferences": [
+      {
+        "documentTitle": "Synthetic Technical Sanction Memo TRF/ANPR/2024/09",
+        "pageNumber": 5,
+        "sectionTitle": "Interoperability & VAHAN Integration Requirements"
+      }
+    ],
+    "keywords": ["ANPR", "number plate recognition", "traffic camera", "e-challan", "VAHAN", "junction surveillance"]
+  },
+  {
+    "fictionalLabel": "[SYNTHETIC FICTIONAL DATA FOR HACKATHON EVALUATION]",
+    "proposalId": "PROP-SYN-2024-0189",
+    "title": "Facial Recognition CCTV Camera Pilot for Heritage Town Market Areas",
+    "summary": "Fictional case: Pilot installation of 15 advanced facial recognition biometric CCTV cameras in crowded Sunday Market and Nehru Street shopping district.",
+    "problemStatement": "High density petty theft, pickpocketing, and crowded festival crowd management challenges in narrow commercial corridors.",
+    "category": "Infrastructure & Surveillance",
+    "departmentCode": "CRIME_CID",
+    "departmentName": "Crime Investigation Division",
+    "proposedBudget": 6200000,
+    "currency": "INR",
+    "implementationTimeline": "5 Months",
+    "status": "Closed",
+    "outcome": "Modified",
+    "decidedAmount": 3100000,
+    "decisionReason": "Live automated facial recognition held in abeyance pending statutory data protection and SOP guidelines. Sanctioned only for ultra-high-definition optical recording without active automated biometrics matching.",
+    "implementationStatus": "Implemented",
+    "implementationOutcome": "Optical recording cameras deployed; biometric software withheld as per compliance directive.",
+    "actualCost": 2950000,
+    "sourceReferences": [
+      {
+        "documentTitle": "Synthetic Legal Compliance Review CID/FRT/2024/114",
+        "pageNumber": 4,
+        "sectionTitle": "Data Privacy & Statutory Restraints"
+      }
+    ],
+    "keywords": ["facial recognition", "market surveillance", "biometric", "high-resolution camera", "privacy guidelines"]
+  },
+  {
+    "fictionalLabel": "[SYNTHETIC FICTIONAL DATA FOR HACKATHON EVALUATION]",
+    "proposalId": "PROP-SYN-2025-0012",
+    "title": "CCTV Infrastructure Upgrade and Storage Redundancy for Central Police Station",
+    "summary": "Fictional case: Upgrading 16 internal and perimeter custody cameras at Central Police Station with 60-day tamper-proof cloud/SAN storage.",
+    "problemStatement": "Legacy DVR storage capacity is limited to 14 days, risking non-compliance with statutory judicial guidelines requiring 30-60 day retention of station records.",
+    "category": "Infrastructure & Surveillance",
+    "departmentCode": "ADMIN_HQ",
+    "departmentName": "Administration & Headquarters",
+    "proposedBudget": 1800000,
+    "currency": "INR",
+    "implementationTimeline": "2 Months",
+    "status": "Implementation In Progress",
+    "outcome": "Approved",
+    "decidedAmount": 1750000,
+    "decisionReason": "Mandatory compliance with supreme court / judicial custody monitoring standards. Sanctioned with high priority.",
+    "implementationStatus": "Implementation In Progress",
+    "implementationOutcome": "SAN storage racks delivered and 12 cameras migrated. Final commissioning and audit inspection scheduled for end of month.",
+    "actualCost": 1200000,
+    "sourceReferences": [
+      {
+        "documentTitle": "Synthetic Custody Surveillance Audit HQ/AUD/2025/03",
+        "pageNumber": 1,
+        "sectionTitle": "Statutory Retention Guidelines"
+      }
+    ],
+    "keywords": ["police station CCTV", "custody camera", "storage retention", "SAN storage", "tamper-proof"]
+  },
+  {
+    "fictionalLabel": "[SYNTHETIC FICTIONAL DATA FOR HACKATHON EVALUATION]",
+    "proposalId": "PROP-SYN-2025-0088",
+    "title": "Mobile Drone-Mounted High Zoom Surveillance for Coastal Patrol",
+    "summary": "Fictional case: Procurement of 3 tethered and untethered aerial surveillance drones equipped with thermal and optical cameras for night coastal monitoring.",
+    "problemStatement": "Difficulties in inspecting coastal sandbar smuggling and illegal nighttime landing spots with static land-based cameras.",
+    "category": "Operational Equipment",
+    "departmentCode": "COASTAL_POLICE",
+    "departmentName": "Coastal & Marine Police",
+    "proposedBudget": 5400000,
+    "currency": "INR",
+    "implementationTimeline": "4 Months",
+    "status": "Under Review",
+    "outcome": "Pending",
+    "decidedAmount": null,
+    "decisionReason": "Currently undergoing inter-departmental technical committee review regarding pilot flight clearance and DGCA compliance.",
+    "implementationStatus": "Pending",
+    "implementationOutcome": "Awaiting final technical evaluation report.",
+    "actualCost": null,
+    "sourceReferences": [
+      {
+        "documentTitle": "Synthetic Coastal Technical Note CP/DRONE/2025/19",
+        "pageNumber": 2,
+        "sectionTitle": "Aviation Safety and Airspace Clearance"
+      }
+    ],
+    "keywords": ["drone surveillance", "aerial camera", "coastal patrol", "thermal imaging", "night vision"]
+  },
+  {
+    "fictionalLabel": "[SYNTHETIC FICTIONAL DATA FOR HACKATHON EVALUATION]",
+    "proposalId": "PROP-SYN-2022-0055",
+    "title": "Legacy Proposal: Community CCTV Integration Scheme (Incomplete Evidence Case)",
+    "summary": "Fictional case: Proposal to subsidize private shopkeeper CCTV cameras facing public streets in exchange for departmental feed access.",
+    "problemStatement": "Scattered commercial establishments have private cameras but standard definitions, storage intervals, and legal consent agreements are undocumented.",
+    "category": "Community Policing",
+    "departmentCode": "ADMIN_HQ",
+    "departmentName": "Administration & Headquarters",
+    "proposedBudget": 1200000,
+    "currency": "INR",
+    "implementationTimeline": "Unknown",
+    "status": "Closed",
+    "outcome": "Closed - Incomplete Evidence",
+    "decidedAmount": null,
+    "decisionReason": "File closed without financial sanction due to unresolved privacy indemnification terms and absence of vendor standard specifications.",
+    "implementationStatus": "Abandoned",
+    "implementationOutcome": "No implementation recorded in departmental archives.",
+    "actualCost": 0,
+    "sourceReferences": [
+      {
+        "documentTitle": "Synthetic Archived File Note ARCH/2022/990",
+        "pageNumber": 1,
+        "sectionTitle": "Incomplete Submission Notice"
+      }
+    ],
+    "keywords": ["community CCTV", "merchant surveillance", "feed sharing", "private cameras", "incomplete case"]
+  }
+]

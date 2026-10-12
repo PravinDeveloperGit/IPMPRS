@@ -1,0 +1,22 @@
+{
+  "name": "ipmprs-monorepo",
+  "version": "1.0.0",
+  "description": "IPMPRS - Intelligent Proposal Management & Precedent Retrieval System (Puducherry Police Hackathon 2026)",
+  "private": true,
+  "scripts": {
+    "test:backend": "cd backend && npm test",
+    "test:ai": "\"C:\\Users\\prave\\AppData\\Local\\Programs\\Thonny\\python.exe\" ai-service/tests/test_retrieval.py",
+    "test:ai:endpoints": "\"C:\\Users\\prave\\AppData\\Local\\Programs\\Thonny\\python.exe\" ai-service/tests/test_api_endpoints.py",
+    "test": "npm run test:backend && npm run test:ai && npm run test:ai:endpoints",
+    "seed": "npm --prefix backend run seed && npm run seed:ai",
+    "seed:ai": "\"C:\\Users\\prave\\AppData\\Local\\Programs\\Thonny\\python.exe\" ai-service/seed_vectors.py",
+    "build:frontend": "cd frontend && npm run build",
+    "dev:backend": "cd backend && npm start",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev:ai": "\"C:\\Users\\prave\\AppData\\Local\\Programs\\Thonny\\python.exe\" -m uvicorn app.main:app --app-dir ai-service --host 127.0.0.1 --port 8000",
+    "dev": "concurrently -n \"backend,ai,frontend\" -c \"blue,magenta,cyan\" \"npm run dev:backend\" \"npm run dev:ai\" \"npm run dev:frontend\""
+  },
+  "devDependencies": {
+    "concurrently": "^10.0.6"
+  }
+}

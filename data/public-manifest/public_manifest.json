@@ -1,0 +1,26 @@
+[
+  {
+    "documentTitle": "Model Police Manual - Volume II: Technical & Logistical Standards",
+    "issuingOrganization": "Bureau of Police Research and Development (BPR&D), Ministry of Home Affairs, Government of India",
+    "sourceUrl": "https://bprd.nic.in/model-police-manual",
+    "retrievalDate": "2026-03-15",
+    "documentType": "Public Government Policy Manual",
+    "usageNotes": "Used as reference for CCTV specifications, technical procurement standards, and maintenance requirements for law enforcement infrastructure."
+  },
+  {
+    "documentTitle": "Guidelines for CCTV Surveillance Systems in Public Places",
+    "issuingOrganization": "Ministry of Electronics and Information Technology (MeitY) / Ministry of Home Affairs",
+    "sourceUrl": "https://meity.gov.in/cctv-standards-guidelines",
+    "retrievalDate": "2026-03-20",
+    "documentType": "Standard Operating Procedure / Advisory",
+    "usageNotes": "Referenced for IP rating, storage duration guidelines (30-60 days), optical resolution minimums (1080p/4K), and data retention integrity."
+  },
+  {
+    "documentTitle": "Puducherry Police Hackathon 2026 Problem Statement & Guidelines",
+    "issuingOrganization": "Puducherry Police Department & State Innovation Council",
+    "sourceUrl": "https://police.py.gov.in/hackathon2026",
+    "retrievalDate": "2026-10-10",
+    "documentType": "Hackathon Specification",
+    "usageNotes": "Defines the scope, core requirements, and operational boundaries for IPMPRS."
+  }
+]

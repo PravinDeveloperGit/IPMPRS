@@ -1,0 +1,5 @@
+errorId,documentId,pageNumber,errorType,description,recommendedAction
+ERR-0001,BPRD-DOC-0003,1,"bilingual_header","Opening ministerial messages contain devanagari script alongside English text","Preserve raw utf-8 text; mark bilingual tags in metadata"
+ERR-0002,BPRD-DOC-0007,84-175,"dense_matrix_table","Infrastructure tables contain multi-tier merged cells across columns A to X","Use Pandas/openpyxl matrix extractors to serialize rows into key-value JSON"
+ERR-0003,BPRD-DOC-0008,1-150,"roster_layout","Tabular prison roster lists contain multiple line-wrapped phone numbers and emails","Normalize newline breaks in cells prior to chunking"
+ERR-0004,BPRD-DOC-0009,1-216,"dense_spec_table","Engineering parameters mix numerical tolerances, SI units, and complex electrical standards","Maintain raw Markdown table representation inside text chunk payload"

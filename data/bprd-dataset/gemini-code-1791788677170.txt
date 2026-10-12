@@ -1,0 +1,5 @@
+duplicateId,primaryDocumentId,matchedDocumentId,matchType,similarityScore,sharedSections,resolutionAction
+DUP-0001,BPRD-DOC-0001,BPRD-DOC-0003,thematic_overlap,0.82,"Phishing vectors, BEC scams, banking credential harvest","Retain both: DOC-0001 is situational case studies; DOC-0003 is expert technical proceedings"
+DUP-0002,BPRD-DOC-0002,BPRD-DOC-0005,content_reproduction,0.78,"Live memory acquisition, BitLocker manage-bde syntax, FTK Imager E01 steps, Write blocker hardware","Retain both: DOC-0002 is execution manual; DOC-0005 is academic/pedagogical syllabus"
+DUP-0003,BPRD-DOC-0006,BPRD-DOC-0001,conceptual_overlap,0.71,"Sextortion video call modus operandi, fraudulent investment apps","Retain both: DOC-0006 details specific 2023 WhatsApp MMI forwarding & Screen-share vectors"
+DUP-0004,BPRD-DOC-0007,BPRD-DOC-0008,directory_overlap,0.45,"State/UT Police training centres vs. Prison administration contacts","Retain both: Distinct administrative verticals (Police training vs. Prison institutions)"
